@@ -3,6 +3,9 @@
 A Chip-8 emulator written in C++.
 
 ## Build
+Dependencies: cmake, sdl2
+Please install dependencies to run
+
 ```bash
 git clone 'https://github.com/neo-meta-cortex/chip8-emulator'
 cd chip8-emulator
